@@ -5,5 +5,6 @@
   "workbench.list.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
   "terminal.integrated.cursorBlinking": true,
-  "explorer.compactFolders": false
+  "explorer.compactFolders": false,
+  "explorer.sortOrder": "type"
 }
