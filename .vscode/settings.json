@@ -1,4 +1,5 @@
 {
   "editor.smoothScrolling": true,
-  "editor.cursorBlinking": "smooth"
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on"
 }
