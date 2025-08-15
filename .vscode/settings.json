@@ -16,5 +16,6 @@
   "terminal.integrated.cursorBlinking": true,
   "explorer.compactFolders": false,
   "explorer.sortOrder": "type",
-  "explorer.decorations.badges": false
+  "explorer.decorations.badges": false,
+  "files.trimTrailingWhitespace": true
 }
