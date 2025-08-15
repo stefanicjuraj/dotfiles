@@ -8,6 +8,7 @@
   "editor.renderWhitespace": "none",
   "editor.renderLineHighlight": "none",
   "editor.overviewRulerBorder": true,
+  "editor.hideCursorInOverviewRuler": false,
   "workbench.list.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
   "terminal.integrated.cursorBlinking": true,
