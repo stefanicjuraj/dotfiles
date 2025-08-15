@@ -18,5 +18,6 @@
   "explorer.sortOrder": "type",
   "explorer.decorations.badges": false,
   "files.trimTrailingWhitespace": true,
-  "scm.compactFolders": false
+  "scm.compactFolders": false,
+  "symbols.hidesExplorerArrows": true
 }
