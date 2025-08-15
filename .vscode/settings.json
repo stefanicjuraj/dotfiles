@@ -10,6 +10,7 @@
   "editor.overviewRulerBorder": true,
   "editor.hideCursorInOverviewRuler": false,
   "editor.minimap.enabled": true,
+  "editor.wordWrap": "on",
   "workbench.list.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
   "terminal.integrated.cursorBlinking": true,
