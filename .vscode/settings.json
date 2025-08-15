@@ -15,5 +15,6 @@
   "terminal.integrated.smoothScrolling": true,
   "terminal.integrated.cursorBlinking": true,
   "explorer.compactFolders": false,
-  "explorer.sortOrder": "type"
+  "explorer.sortOrder": "type",
+  "explorer.decorations.badges": false
 }
